@@ -6,6 +6,9 @@ import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
+/**
+ * created by linghu 2015/5/21
+ */
 public class ProcessInject {
 
 	public static void injectView(Object obj, Object root) {
